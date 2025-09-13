@@ -1,0 +1,7 @@
+{
+    "version": "1.9.3",
+    "version_num": 10903,
+    "version_desc": "- 修复xxx1 \n- 修复xxx2",
+    "prerelease":true,
+    "download_url": "https://github.com/liuhoufu/simple_live/releases"
+}
